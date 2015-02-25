@@ -1,2 +1,3 @@
 # dpd-udp-client-server
-Sample UDP Client-Server for FreeBSD using kqueue
+Sample Pre-fork, kevent UDP Server and a dumb client, developed
+on freebsd.
